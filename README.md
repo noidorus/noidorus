@@ -8,10 +8,14 @@
 
 ---
 ### :man_technologist: About Me :  
-I am a TypeScript developer <img src="https://media2.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=ecf05e476us0uqtv98eakeoe6eokolii279fbbizi5sxrpbx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" />
+
+
+
+I am a TypeScript developer <img src="https://media2.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=ecf05e476us0uqtv98eakeoe6eokolii279fbbizi5sxrpbx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" />  
+I'm interested in both front-end and back-end development. I like to learn new things. Experience with TypeScript, HTML, CSS, Scss, Next.js, React, Redux-thunk, Firebase, TailwindCSS, 
 
 - :mag_right: Now I'm looking for a job
-- :handshake:	I'm interested in both front-end and back-end development
+- :handshake:	I'm open to collaborating on Intersting Projects
 - :envelope: You can contact me at noidoruz@gmail.com
 
 ---
@@ -34,9 +38,6 @@ I am a TypeScript developer <img src="https://media2.giphy.com/media/f7omQNmgiyj
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></a>&nbsp;
   <a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40"/></a>&nbsp;
   <a href="https://vitejs.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" width="40"/></a>&nbsp;
-  <a href=""></a>&nbsp;
-  <a href=""></a>&nbsp;
-  <a href=""></a>&nbsp;
 </div>
 
 ---
