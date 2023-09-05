@@ -17,6 +17,9 @@ I'm interested in both front-end and back-end development. I like to learn new t
 - :mag_right: Now I'm looking for a job
 - :handshake:	I'm open to collaborating on Intersting Projects
 - :envelope: You can contact me at noidoruz@gmail.com
+- :link: My LinkedIn www.linkedin.com/in/noidorus
+
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :  
