@@ -7,7 +7,7 @@
 </div>
 
 ---
-### :man_technologist: About Me :  
+### About Me :  
 
 
 
